@@ -1,0 +1,19 @@
+{
+  "name": "stream-mysql-01",
+  "version": "1.0.0",
+  "description": "Nyoba strem pake @database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Musbahniar",
+  "license": "ISC",
+  "dependencies": {
+    "@databases/mysql": "^5.2.1",
+    "barrage": "^2.0.4",
+    "csv-generate": "^4.2.2",
+    "csv-stringify": "^5.3.6",
+    "fs": "^0.0.1-security",
+    "mysql": "^2.18.1"
+  }
+}
